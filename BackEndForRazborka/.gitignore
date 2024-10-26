@@ -1,0 +1,5 @@
+.env
+bin/Release/
+bin/Debug/
+obj/Debug/
+obj/Release/
